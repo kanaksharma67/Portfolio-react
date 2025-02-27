@@ -11,7 +11,7 @@ function Projects() {
         </div>
       })}
       </div>
-      {/* <div className="">{PROJECTS.map(())} </div> */}
+      
     </div>
   )
 }
