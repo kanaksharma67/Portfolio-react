@@ -21,7 +21,8 @@ export const EXPERIENCES = [
     company: "Code Kshetra 2.0",
     description: `Worked on a frontend of a webapp called agrimarket with the help of react js tailwind css bootstrap and news api key`,
     technologies: ["HTML", "CSS", "Tailwind css", "ReactJs", "Framer Motion"],
-  },
+  }, 
+  
   {
     year: "2025 March",
     role: "Top-15 finalist ",
