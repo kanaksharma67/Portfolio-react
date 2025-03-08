@@ -3,9 +3,9 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, Express.js and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. I have worked with a variety of technologies, including React, Next.js, Node.js, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
 export const EXPERIENCES = [
   {
@@ -20,14 +20,14 @@ export const EXPERIENCES = [
     role: "Hackathon participator",
     company: "Code Kshetra 2.0",
     description: `Worked on a frontend of a webapp called agrimarket with the help of react js tailwind css bootstrap and news api key`,
-    technologies: ["HTML", "CSS", "Tailwind css", "ReactJs"],
+    technologies: ["HTML", "CSS", "Tailwind css", "ReactJs", "Framer Motion"],
   },
   {
     year: "2025 March",
     role: "Top-15 finalist ",
-    company: "Codew seva",
+    company: "Code seva",
     description: `worked with a team of full stack developers and build a webapp named EliteSport with the use of Vite+React+TypeScript , clerk for login page and razorpay for payment gateway`,
-    technologies: ["Vite+React", "Typescript","TailWind css"],
+    technologies: ["Vite+React", "Typescript","TailWind css", "Framer Motion"],
   },
  
 ];
@@ -65,6 +65,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Greater Noida,India(+91) " ,
-  phoneNo: "9728600337 " ,
   email: "kanaksharmaaa67@gmail.com" ,
+  Linkedin:"",  
 };
