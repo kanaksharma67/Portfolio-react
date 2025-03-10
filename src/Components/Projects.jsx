@@ -30,7 +30,7 @@ function Projects() {
      </div>
 
       <motion.div
-      whileHover={{scale:1.1}}
+     
       whileInView={{opacity:1, x:0}}
       initial={{opacity:0, x:100}}
       transition={{duration:1}}
@@ -61,11 +61,11 @@ function Projects() {
        
         </div>
         <motion.div
-        whileHover={{scale:1.1}}
+        
       whileInView={{opacity:1, x:0}}
       initial={{opacity:0, x:100}}
       transition={{duration:1}}
-      className="rounded-2xl">
+      className="rounded-4xl mt-10 ml-3">
         <video width="600" controls>
             <source src={myVideo} type="video/mp4" />
             Your browser does not support the video tag.
